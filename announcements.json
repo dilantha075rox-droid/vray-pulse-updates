@@ -7,6 +7,18 @@
       "date": "2026-10-08",
       "type": "info",
       "important": false
+    },
+    {
+      "id": 2,
+      "title": "WiFi Share is coming",
+      "body": "Share your tunnel with other devices on your hotspot. Available on Standard and Pro.",
+      "date": "2026-10-20",
+      "type": "feature",
+      "important": true,
+      "link": "https://t.me/Dilanthats",
+      "linkText": "Ask a question",
+      "expires": "2026-12-31",
+      "plans": ["free", "standard"]
     }
   ]
 }
