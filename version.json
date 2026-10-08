@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "2.1",
-  "apkUrl": "https://github.com/dilantha075rox-droid/vray-pulse-updates/releases/download/v2.1/vray-pulse-2.1.apk",
-  "sha256": "94c9391748fc464717716bd86de351cea2e91fa3d25348d44cd0f74885c4f69e",
-  "notes": "Test update",
-  "sizeBytes": 140428296
+  "versionCode": 4,
+  "versionName": "2.4",
+  "apkUrl": "https://github.com/dilantha075rox-droid/vray-pulse-updates/releases/download/v2.4/vray-pulse-2.4.apk",
+  "sha256": "6b38bf78f90012bcd4916fd6fe750af23a51d6f414345236e407c50f62b6c98c",
+  "notes": "New: Smart selection (Pro). Test all nodes and auto-select the best node.",
+  "sizeBytes": 140805272
 }
