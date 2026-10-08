@@ -1,15 +1,12 @@
 {
   "messages": [
     {
-      "id": 2,
-      "title": "WiFi Share is coming",
-      "body": "Share your tunnel with other devices on your hotspot. Available on Standard and Pro.",
-      "date": "2026-10-08",
-      "type": "feature",
-      "important": true,
-      "link": "https://t.me/Dilanthats",
-      "linkText": "Ask a question",
-      "expires": "2026-12-31"
-    }
+  "id": 3,
+  "title": "Version 2.4 is available",
+  "body": "New: test all nodes and auto-select the best one (Pro). Open Expert and tap Check for update.",
+  "date": "2026-10-08",
+  "type": "update",
+  "important": true
+}
   ]
 }
