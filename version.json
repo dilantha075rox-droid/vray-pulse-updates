@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/dilantha075rox-droid/vray-pulse-updates/releases/download/v2.0/vray-pulse-2.0.apk",
-  "sha256": "0000",
-  "notes": "First release",
-  "sizeBytes": 0
+  "versionCode": 2,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/dilantha075rox-droid/vray-pulse-updates/releases/download/v2.1/vray-pulse-2.1.apk",
+  "sha256": "94c9391748fc464717716bd86de351cea2e91fa3d25348d44cd0f74885c4f69e",
+  "notes": "Test update",
+  "sizeBytes": 140428296
 }
