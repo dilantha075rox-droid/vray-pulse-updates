@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "title": "Welcome to V-RAY PULSE 2.0",
+      "body": "Thanks for installing. New features are coming soon, and you will see them here first.",
+      "date": "2026-10-08",
+      "type": "info",
+      "important": false
+    }
+  ]
+}
